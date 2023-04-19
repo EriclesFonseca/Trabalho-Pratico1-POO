@@ -1,0 +1,8 @@
+Elementos nos índices pares:
+83 85 46 54 58 
+Elementos pares:
+38 46 54 58 
+Elementos na ordem inversa:
+47 58 11 54 11 46 38 85 3 83 
+Primeiro e último elemento:
+83 47
